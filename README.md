@@ -7,6 +7,7 @@ Functional Programming - Take inputs and pass as method parameters
  4. Divide two numbers - Takes varargs and divide first by second and result by third ... returns result in double
  
  Math Functions
+ 
   5. Square Root - Takes varargs and returns square root of each input argument as a list 
   6. Power of - Takes 2 double inputs and returns base to the power of exponent
 
